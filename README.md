@@ -148,5 +148,19 @@ Synthetic rubber has become indispensable in modern manufacturing, finding its w
 
 Moreover, synthetic rubber offers advantages over natural rubber in terms of availability, consistency, and performance characteristics. It can be produced on a larger scale and with greater control over its properties, making it suitable for a wide range of applications.
 
+### Styrene-butadiene rubber (SBR):
+SBR is commonly used in the production of tires, conveyor belts, shoe soles, and other mechanical goods. It's also utilized in adhesives, coatings, and sealants.
+SBR offers good abrasion resistance, resilience, and low-temperature flexibility. It provides excellent adhesion to various substrates and can be easily blended with other polymers to modify properties.
 
+### Butyl rubber (IIR/BIIR/CIIR):
+Butyl rubber finds extensive application in tire inner tubes, inner linings for hoses, seals, gaskets, and pharmaceutical stoppers. It's also used in adhesives, agricultural chemicals, and chewing gum.
+Butyl rubber exhibits exceptional impermeability to gases, making it ideal for tire inner tubes and other applications requiring gas or liquid barrier properties. It also possesses excellent weathering resistance and damping characteristics.
+
+### Polybutadiene rubber (BR/PBR):
+Polybutadiene rubber is primarily employed in the manufacturing of tires, especially for enhancing tread wear resistance and improving wet traction. It's also utilized in conveyor belts, hoses, and various molded and extruded rubber products.
+Polybutadiene rubber offers outstanding resilience, abrasion resistance, and tear strength, making it a preferred choice for tire compounds. It provides excellent low-temperature flexibility and high rebound properties.
+
+### Thermoplastic Styrene-Butadiene-Styrene (SBS) elastomer:
+SBS elastomers are widely used in asphalt modification for road construction, where they enhance pavement durability and performance. They're also utilized in footwear, roofing materials, adhesives, and polymer-modified bitumen.
+SBS elastomers combine the properties of rubber and thermoplastics, offering flexibility, elasticity, and easy processing. They exhibit excellent adhesion to various substrates, good weathering resistance, and compatibility with asphalt binders.
 
