@@ -85,8 +85,8 @@ With **DAP**, the seller is responsible for delivering the goods, cleared for im
 
 In summary, **Category D** Incoterms involve the seller being responsible for delivering the goods to a specific place, clearing for import, and bearing all risks and costs until delivery. All of the transportation costs are paid by the seller.
 
-**[Incoterms 2020 rules and responsibilities reference guide](https://incodocs.com/blog/wp-content/uploads/2020/01/IncoTerms-Chart-Medium.png)**
 ![Incoterms 2020 rules and responsibilities reference guide](/IncoTerms-Chart-Medium.png)
+![Incoterms 2020 rules and responsibilities reference guide2](/Incoterms_2020.webp)
 
 | Category | Risks & Responsibilities |
 | -------- | ------- |
