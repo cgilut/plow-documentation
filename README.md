@@ -1,3 +1,7 @@
+# Table of content
+
+1. [What are commodities](https://github.com/cgilut/plow-documentation/edit/main/README.md#what-are-commodities)
+
 # What are commodities? 
 Commodities as raw materials or basic goods that are the same no matter where you get them. Things like gold, oil, wheat, and coffee are all commodities. They're things that are grown, mined, or produced and traded on a large scale. They are interchangeable – it doesn’t matter which farm or well they came from, they have no brands and are all pretty similar. They play a big role in the global economy because they're essential for making all sorts of products, so their prices can have a big impact on businesses and consumers worldwide.
 
