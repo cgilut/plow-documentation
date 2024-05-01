@@ -1,6 +1,6 @@
 # Table of content
 
-1. [What are commodities](#what-are-commodities)
+1. [What are commodities?](#what-are-commodities)
 2. [Types and categories of commodities](#types-and-categories-of-commodities)
 3. [Why do commodity prices change?](#why-do-commodity-prices-change)
 4. [Instruments for financing commodities](#instruments-for-financing-commodities)
