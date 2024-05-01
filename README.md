@@ -3,7 +3,7 @@ Commodities as raw materials or basic goods that are the same no matter where yo
 
 # Types and categories of commodities.
 
-Commodities can be broken down into two main groups: “**soft**” and “**hard**” commodities. 
+Commodities can be broken down into two main groups: “**<font color="red">soft</font>**” and “**hard**” commodities. 
 ### Soft Commodities
 These are the ones that come from the ground or are grown on farms. Think of crops like wheat, rubber, soybeans, coffee, sugar, cocoa, and cotton.
 ### Hard Commodities
