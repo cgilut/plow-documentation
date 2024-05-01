@@ -1,6 +1,13 @@
 # Table of content
 
-1. [What are commodities](#what-are-commodities****)
+1. [What are commodities](#what-are-commodities)
+2. [Types and categories of commodities](#types-and-categories-of-commodities)
+3. [Why do commodity prices change?](#why-do-commodity-prices-change)
+4. [Instruments for financing commodities](#instruments-for-financing-commodities)
+5. [What are Incoterms?](#what-are-incoterms)
+6. [Container Transportation](#container-transportation)
+7. [Trade Financing](#trade-financing)
+8. [Rubber](#rubber)
 
 # What are commodities? 
 Commodities as raw materials or basic goods that are the same no matter where you get them. Things like gold, oil, wheat, and coffee are all commodities. They're things that are grown, mined, or produced and traded on a large scale. They are interchangeable – it doesn’t matter which farm or well they came from, they have no brands and are all pretty similar. They play a big role in the global economy because they're essential for making all sorts of products, so their prices can have a big impact on businesses and consumers worldwide.
@@ -40,15 +47,15 @@ As farms become more important in the global market, competition is getting toug
 
 Farmers are using cutting-edge technologies such as GPS systems, drones, automated machinery, and big data analytics to navigate these changes. These innovations optimize production efficiency and crop management, allowing farmers to maximize yields despite the constraints imposed by the constant urban expansion and diminishing arable land.
 
-### Why do commodity prices change?
+# Why do commodity prices change?
 Various factors influence commodity prices. These factors include changes in costs related to carrying, storing, insuring, and financing commodities. Currency fluctuations, geopolitical and economic stability, and global economic trends also play significant roles. Government policies, inflation, and interest rates affect commodity prices, as do market speculation and storage/transportation costs. Additionally, supply and demand dynamics, technological advances, and weather/environmental events are key factors driving commodity price movements. These influences can lead to price volatility and impact both investors and consumers alike, making the commodity market complex and interconnected with global events and economic conditions.
 
-### Instruments for financing commodities
+# Instruments for financing commodities
 Commodity futures and options are financial instruments used for financing commodities. They offer ways for market participants to manage risk and secure commodity prices. 
 Futures contracts are agreements to buy or sell a specific quantity of a commodity at a predetermined price on a future date. They're commonly used by producers, consumers, and investors to hedge against price fluctuations, and they provide a way to lock in prices for future delivery.
 Options contracts give the holder the right, but not the obligation, to buy (call option) or sell (put option) a commodity at a specified price within a predetermined period. Options give the flexibility to either buy or sell commodities at predetermined prices. This way sellers can protect themselves from potential losses, and buyers from potential price increases. 
 
-### What are Incoterms?
+# What are Incoterms?
 Incoterms are a set of standardized international trade terms that define the responsibilities of buyers and sellers in the transportation and delivery of goods. These terms are published by the International Chamber of Commerce (ICC), and the latest version is **Incoterms® 2020**. 
 - **Category E (EXW)**
 
@@ -89,8 +96,6 @@ With **DAP**, the seller is responsible for delivering the goods, cleared for im
 
 In summary, **Category D** Incoterms involve the seller being responsible for delivering the goods to a specific place, clearing for import, and bearing all risks and costs until delivery. All of the transportation costs are paid by the seller.
 
-![Incoterms 2020 rules and responsibilities reference guide](/IncoTerms-Chart-Medium.png)
-![Incoterms 2020 rules and responsibilities reference guide2](/Incoterms_2020.webp)
 
 | Category | Risks & Responsibilities |
 | -------- | ------- |
@@ -99,7 +104,12 @@ In summary, **Category D** Incoterms involve the seller being responsible for de
 | C | mostly seller |
 | D | seller |
 
-### Container Transportation
+![Incoterms 2020 rules and responsibilities reference guide](/IncoTerms-Chart-Medium.png)
+
+![Incoterms 2020 rules and responsibilities reference guide2](/Incoterms_2020.webp)
+
+
+# Container Transportation
 
 In the pre-industrial era, transporting goods across continents and oceans was very costly, limiting long-distance trade to only the most profitable commodities like gold, silver, spices, and coffee. However, advancements in transport technologies, including the introduction of large bulk carriers and massive harbor facilities, dramatically reduced shipping costs for bulk goods.
 
@@ -116,13 +126,13 @@ In **FCL** shipping, a single container is exclusively used to transport goods b
 
 In **LCL** shipping, multiple shipments from different shippers are consolidated into a single container. This allows smaller shipments to be cost-effectively transported by sharing container space with other shipments. The costs in LCL shipping depend either on cubic meters or metric tons of the cargo.
 
-### Trade Financing
+# Trade Financing
 
 Trade finance is all about making international trade smoother and safer by involving a third party to handle payment and supply risks. It helps exporters get paid and importers fulfill orders without worrying about risks like non-payment, currency changes, or political instability.
 
 One such tool is the Letter of credit. A **letter of credit (LC)** is a document issued by a bank on behalf of a buyer (importer) to guarantee payment to a seller (exporter) once certain conditions are met. It serves as a secure method of payment in international trade, providing assurance to both the buyer and seller. The bank assures the seller that they will receive payment once they fulfill the terms of the agreement, such as providing proof of shipment. Overall, a letter of credit helps facilitate smooth and secure transactions in global trade.
 
-### Rubber
+# Rubber
 
 Rubber has a long history that stretches back centuries. Natural rubber originates from the Amazon Rainforest region.  The indigenous peoples of South America, particularly those in the Amazon basin, were the first to discover the latex sap produced by certain trees, such as Hevea brasiliensis, commonly known as the rubber tree. They utilized this latex for various purposes, including waterproofing, making shoes, and creating balls for sports. 
 
