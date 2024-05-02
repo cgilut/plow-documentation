@@ -8,7 +8,8 @@
 6. [Container Transportation](#container-transportation)
 7. [Contracts](#contracts)
 8. [Letter of Credit](#letter-of-credit)
-9. [Rubber](#rubber)
+9. [Letter of Credit Practices](#letter-of-credit-practices)
+10. [Rubber](#rubber)
 
 # What are commodities? 
 Commodities as raw materials or basic goods that are the same no matter where you get them. Things like gold, oil, wheat, and coffee are all commodities. They're things that are grown, mined, or produced and traded on a large scale. They are interchangeable – it doesn’t matter which farm or well they came from, they have no brands and are all pretty similar. They play a big role in the global economy because they're essential for making all sorts of products, so their prices can have a big impact on businesses and consumers worldwide.
@@ -197,7 +198,7 @@ A Transferable Letter of Credit (LC) is a specialized type of LC that allows the
 
 A Red Clause Letter of Credit (LC) is a specialized type of LC that includes a specific clause, often printed in red ink, allowing for partial advance payment to the seller before the shipment of goods. In a Red Clause LC arrangement, the buyer's bank agrees to advance funds to the seller upon the presentation of a written request or draft from the seller, typically accompanied by a written statement detailing the purpose of the advance and the amount requested.
 
-### Letter of Credit Practices
+# Letter of Credit Practices
 
 **The International Chamber of Commerce (ICC)** plays a central role in shaping the rules and practices governing Letters of Credit (LCs) through its publication of the **Uniform Customs and Practice for Documentary Credits (UCP)** and the **International Standby Practices (ISP) for Demand Guarantees**.
 
