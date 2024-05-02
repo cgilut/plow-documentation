@@ -6,8 +6,9 @@
 4. [Instruments for financing commodities](#instruments-for-financing-commodities)
 5. [What are Incoterms?](#what-are-incoterms)
 6. [Container Transportation](#container-transportation)
-7. [Trade Financing](#trade-financing)
-8. [Rubber](#rubber)
+7. [Contracts](#contracts)
+8. [Letter of Credit](#letter-of-credit)
+9. [Rubber](#rubber)
 
 # What are commodities? 
 Commodities as raw materials or basic goods that are the same no matter where you get them. Things like gold, oil, wheat, and coffee are all commodities. They're things that are grown, mined, or produced and traded on a large scale. They are interchangeable – it doesn’t matter which farm or well they came from, they have no brands and are all pretty similar. They play a big role in the global economy because they're essential for making all sorts of products, so their prices can have a big impact on businesses and consumers worldwide.
@@ -126,11 +127,110 @@ In **FCL** shipping, a single container is exclusively used to transport goods b
 
 In **LCL** shipping, multiple shipments from different shippers are consolidated into a single container. This allows smaller shipments to be cost-effectively transported by sharing container space with other shipments. The costs in LCL shipping depend either on cubic meters or metric tons of the cargo.
 
-# Trade Financing
+# Contracts
 
-Trade finance is all about making international trade smoother and safer by involving a third party to handle payment and supply risks. It helps exporters get paid and importers fulfill orders without worrying about risks like non-payment, currency changes, or political instability.
+Term contracts and spot contracts are both types of agreements commonly used in business, particularly in the context of purchasing goods or services.
 
-One such tool is the Letter of credit. A **letter of credit (LC)** is a document issued by a bank on behalf of a buyer (importer) to guarantee payment to a seller (exporter) once certain conditions are met. It serves as a secure method of payment in international trade, providing assurance to both the buyer and seller. The bank assures the seller that they will receive payment once they fulfill the terms of the agreement, such as providing proof of shipment. Overall, a letter of credit helps facilitate smooth and secure transactions in global trade.
+### Spot contract
+
+A spot contract is an agreement where goods or services are bought or sold for immediate delivery and payment. It's a straightforward transaction where the price is determined by the current market conditions, often referred to as the spot price.
+
+### Term contract
+
+A term contract, on the other hand, is a longer-term agreement between a buyer and a seller for the purchase or sale of goods or services over a specified period. The terms of the contract, including price, quantity, and delivery schedule, are negotiated and agreed upon in advance. Unlike spot contracts, which are for immediate transactions, term contracts provide stability and predictability for both parties over the agreed-upon period.
+
+# Letter of Credit
+
+A Letter of Credit is a financial document issued by a bank on behalf of a buyer to guarantee payment to a seller upon the fulfillment of specified conditions. It serves as a promise of payment, ensuring that the seller will receive the agreed-upon funds once they meet the terms outlined in the LC. Letters of Credit (LC) are vital instruments in international trade, facilitating transactions between buyers and sellers across borders. 
+
+In the realm of global commerce, where parties may be located thousands of miles apart, trust and assurance in payment are paramount. LCs play a pivotal role in mitigating the inherent risks associated with cross-border transactions. They provide a secure mechanism for both buyers and sellers, instilling confidence and enabling trade to flourish even amidst geographical and cultural differences.
+
+At its core, the purpose of a Letter of Credit is twofold: to safeguard the interests of both parties involved in a transaction and to facilitate smooth and efficient trade operations. For the buyer, an LC offers assurance that payment will only be made once the seller fulfills their contractual obligations, such as delivering the goods or providing the services as agreed. Meanwhile, the seller gains the confidence of knowing that they will receive payment as per the terms stipulated in the LC, thus reducing the risk of non-payment or default.
+
+In essence, Letters of Credit serve as the backbone of international trade, fostering trust, reliability, and mutual benefit among global business partners.
+
+Letters of Credit come in various forms, each tailored to specific trade requirements and circumstances:
+
+### Commercial Letters of Credit
+
+A commercial letter of credit is a financial instrument issued by a bank on behalf of a buyer to facilitate trade with a seller. It guarantees payment to the seller upon the presentation of compliant documents, such as bill of lading, CMR, Railway Bill, etc., confirming the shipment of goods as per the terms of the underlying contract.
+
+Commercial LCs are primarily used in trade transactions to ensure payment for the purchase of goods or services. They provide assurance of payment to the seller, subject to the fulfillment of the specified conditions and the presentation of compliant documents. Commercial LCs are not intended to provide financing to the buyer but rather to facilitate the smooth flow of trade by minimizing the risk of non-payment for the seller.
+
+### Standby Letters of Credit (SBLC)
+
+A standby letter of credit is a secondary payment mechanism issued by a bank on behalf of a buyer to provide assurance of payment to a seller in the event of non-performance or default by the buyer. SBLCs are often used as a form of financial guarantee or security for various contractual obligations. They serve as a backup payment mechanism, triggered only if the buyer fails to fulfill their payment obligations or meet other specified conditions.
+
+### Divisible Letter of Credit
+
+A Divisible Letter of Credit (LC) is a type of LC that allows the seller to draw partial amounts under the LC instead of requiring the entire amount to be drawn at once. This provides flexibility in transactions where multiple shipments or deliveries are involved. In a divisible LC arrangement, the seller can present separate sets of documents for each partial shipment or delivery, each corresponding to a portion of the total LC amount.
+
+### Revocable/Irrevocable Letter of Credit
+
+A Revocable Letter of Credit (LC) is a type of LC that can be modified or canceled by the issuing bank without prior notice to the seller or buyer. In a revocable LC arrangement, the terms and conditions of the LC, including the amount, expiry date, and other terms, can be changed or revoked at any time by the issuing bank. This lack of security and certainty makes revocable LCs less favorable for sellers, as they carry a higher risk of non-payment or alterations to the terms of the LC without their consent.
+
+On the other hand, an Irrevocable Letter of Credit is a type of LC that cannot be altered or canceled without the consent of all parties involved, including the seller and buyer. Once an irrevocable LC is issued, the terms and conditions specified in the LC are binding and cannot be changed unilaterally by the issuing bank. Irrevocable LCs are widely used in international trade transactions to provide a secure and reliable payment mechanism for sellers and buyers alike.
+
+### Payable at Sight Letter of Credit
+
+A Payable at Sight Letter of Credit (LC) is a type of LC where payment is made immediately upon presentation of compliant documents by the seller, without any delay or waiting period. In other words, once the seller fulfills the terms and conditions specified in the LC and presents the required documents to the issuing bank, the bank is obligated to honor the LC and make payment to the seller without delay.
+
+### Confirmed/Unconfirmed Letter of Credit
+
+An Unconfirmed Letter of Credit (LC) is a type of LC where the seller relies solely on the creditworthiness of the issuing bank to guarantee payment. In an unconfirmed LC arrangement, the seller receives the LC directly from the buyer's bank (the issuing bank) and does not involve any additional confirmation from another bank. 
+
+In contrast, a Confirmed Letter of Credit provides an additional level of assurance to the seller by involving a second bank (the confirming bank) to confirm the LC. In a confirmed LC arrangement, the confirming bank adds its guarantee to that of the issuing bank, providing a double layer of security for the seller. If the issuing bank defaults or fails to honor the LC, the confirming bank is obligated to fulfill the payment obligation, thereby mitigating the risk for the seller. 
+
+### Clean Letter of Credit
+
+A Clean Letter of Credit (LC) is a type of LC that does not require the presentation of specific shipping documents or invoices to trigger payment. Instead, payment is based solely on the buyer's creditworthiness. In a clean LC arrangement, the seller does not need to provide evidence of shipment or delivery of goods or services to receive payment.
+
+Clean LCs are often used in situations where the buyer has a well-established relationship with the issuing bank and is deemed creditworthy. The buyer's creditworthiness serves as the primary basis for the issuance of the LC, and the seller can rely on the bank's commitment to honor the LC without the need for additional documentation.
+
+For sellers, clean LCs offer a streamlined payment process, as they eliminate the need to prepare and present detailed shipping documents or invoices. This can result in faster payment and reduced administrative burden for sellers, making clean LCs an attractive option for certain types of transactions.
+
+### Transferable Letter of Credit
+
+A Transferable Letter of Credit (LC) is a specialized type of LC that allows the seller to transfer all or part of the credit to one or more secondary beneficiaries, who can then receive payment from the issuing bank. In a transferable LC arrangement, the seller acts as an intermediary between the original buyer and the secondary beneficiaries, facilitating transactions where they are not the ultimate supplier of goods or services.
+
+### Red Clause Letter of Credit
+
+A Red Clause Letter of Credit (LC) is a specialized type of LC that includes a specific clause, often printed in red ink, allowing for partial advance payment to the seller before the shipment of goods. In a Red Clause LC arrangement, the buyer's bank agrees to advance funds to the seller upon the presentation of a written request or draft from the seller, typically accompanied by a written statement detailing the purpose of the advance and the amount requested.
+
+### Letter of Credit Practices
+
+**The International Chamber of Commerce (ICC)** plays a central role in shaping the rules and practices governing Letters of Credit (LCs) through its publication of the **Uniform Customs and Practice for Documentary Credits (UCP)** and the **International Standby Practices (ISP) for Demand Guarantees**.
+
+The **ICC** is a global business organization that promotes international trade and investment. Founded in 1919, it serves as a forum for businesses and governments to collaborate on matters related to international commerce, including trade finance, arbitration, and commercial law.
+
+### UCP
+
+The **UCP** is a set of internationally recognized rules and guidelines for the use of LCs in trade finance. First published by the ICC in 1933, the UCP has undergone several revisions to reflect changes in international trade practices and regulations.
+
+The UCP provides a standardized framework for LC transactions, ensuring clarity, consistency, and predictability for parties involved in international trade. By establishing uniform rules and procedures, the UCP helps mitigate the risk of disputes and discrepancies, thereby enhancing the efficiency and reliability of LC transactions. It outlines the roles and responsibilities of banks, buyers, and sellers in commercial transactions and sets forth uniform rules for the interpretation of documentary credit terms.
+
+**Key Elements of UCP:**
+
+  - Definition of key terms that are prevalent in international trade (e.g. honoring of payments, applicants, banking days, presentation)
+  - How international trade documents (Letters of Credit) can be signed and acknowledged by all parties
+  - The difference between documents, goods, and services (and which parties deal with these)
+  - Which parts of a Letter of Credit are negotiable and non-negotiable
+  - How credit works, and how payment is made
+  - How banks can communicate the confirmation of goods (teletransmission)
+  - Transportation of the goods, modes of transport, and who bears responsibility
+  - How to deal with discrepancies, waivers, and giving notice
+  - The provision of original documents or electronic copies
+  - Bills of Lading
+  - Insurance and covering the cost of goods
+  - Loss of shipping documents in transit
+
+The latest version is the UCP 600, which replaced the UCP 500 on the 1st of July 2007.
+
+### ISP
+
+**The International Standby Practices (ISP) for Demand Guarantees**, or simply ISP 98, is a set of rules and guidelines developed by the International Chamber of Commerce (ICC) specifically for standby letters of credit and demand guarantees. It provides a comprehensive framework for the use and interpretation of standby letters of credit, focusing primarily on the rights and obligations of the parties involved in standby transactions. It was published on the 1st of January 1999.
+
+ISP 98 is tailored specifically for standby letters of credit and demand guarantees, whereas UCP 600 is more broadly applicable to all types of documentary credits, including commercial letters of credit. It provides a detailed legal framework for standby transactions, covering topics such as drafting, issuance, presentation, examination, and payment of standby documents. It emphasizes the autonomy of standby credits and the importance of strict compliance with the terms and conditions specified in the standby.
 
 # Rubber
 
