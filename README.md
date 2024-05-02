@@ -10,6 +10,9 @@
 8. [Letter of Credit](#letter-of-credit)
 9. [Letter of Credit Practices](#letter-of-credit-practices)
 10. [Rubber](#rubber)
+11. [Sales Order Confirmation](#sales-order-confirmation)
+12. [Buyer’s Instructions to Seller](#buyer’s-instructions-to-seller)
+
 
 # What are commodities? 
 Commodities as raw materials or basic goods that are the same no matter where you get them. Things like gold, oil, wheat, and coffee are all commodities. They're things that are grown, mined, or produced and traded on a large scale. They are interchangeable – it doesn’t matter which farm or well they came from, they have no brands and are all pretty similar. They play a big role in the global economy because they're essential for making all sorts of products, so their prices can have a big impact on businesses and consumers worldwide.
@@ -265,3 +268,10 @@ Polybutadiene rubber offers outstanding resilience, abrasion resistance, and tea
 SBS elastomers are widely used in asphalt modification for road construction, where they enhance pavement durability and performance. They're also utilized in footwear, roofing materials, adhesives, and polymer-modified bitumen.
 SBS elastomers combine the properties of rubber and thermoplastics, offering flexibility, elasticity, and easy processing. They exhibit excellent adhesion to various substrates, good weathering resistance, and compatibility with asphalt binders.
 
+# Sales Order Confirmation
+
+A sales order confirmation serves as a formal acknowledgment of the buyer's purchase and confirms the details of the sales order, including product specifications, quantities, prices, delivery dates, and terms of sale. It is issued by the seller to the buyer after the purchase order has been placed to confirm the agreement and ensure both parties are aligned on the terms of the transaction.
+
+# Buyer’s Instructions to Seller
+
+Buyer's Instructions to Seller (BIS) refer to specific directions or requirements provided by the buyer to the seller regarding the terms, conditions, and procedures related to a transaction. These instructions typically outline the buyer's expectations and preferences regarding various aspects of the transaction, including but not limited to product specifications, delivery terms, payment terms, documentation requirements, compliance and regulations, communication channels, and dispute resolution mechanisms.
