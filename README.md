@@ -11,7 +11,7 @@
 9. [Letter of Credit Practices](#letter-of-credit-practices)
 10. [Rubber](#rubber)
 11. [Sales Order Confirmation](#sales-order-confirmation)
-12. [Buyer’s Instructions to Seller](#buyer’s-instructions-to-seller)
+12. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
 
 
 # What are commodities? 
