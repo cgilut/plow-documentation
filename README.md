@@ -8,10 +8,11 @@
 6. [Container Transportation](#container-transportation)
 7. [Contracts](#contracts)
 8. [Letter of Credit](#letter-of-credit)
-9. [Letter of Credit Practices](#letter-of-credit-practices)
-10. [Rubber](#rubber)
-11. [Sales Order Confirmation](#sales-order-confirmation)
-12. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
+9. [Parties to Letters of Credit](#Parties-to-Letters-of-Credit)
+10. [Letter of Credit Practices](#letter-of-credit-practices)
+11. [Rubber](#rubber)
+12. [Sales Order Confirmation](#sales-order-confirmation)
+13. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
 
 
 # What are commodities? 
@@ -200,6 +201,33 @@ A Transferable Letter of Credit (LC) is a specialized type of LC that allows the
 ### Red Clause Letter of Credit
 
 A Red Clause Letter of Credit (LC) is a specialized type of LC that includes a specific clause, often printed in red ink, allowing for partial advance payment to the seller before the shipment of goods. In a Red Clause LC arrangement, the buyer's bank agrees to advance funds to the seller upon the presentation of a written request or draft from the seller, typically accompanied by a written statement detailing the purpose of the advance and the amount requested.
+
+# Parties to Letters of Credit
+
+There are several parties involved in a typical letter of credit transaction, each with specific roles and responsibilities:
+
+### Applicant: 
+The applicant is usually the buyer or importer who requests the letter of credit from their bank. They are the party obligated to make payment under the terms of the letter of credit once the conditions specified in the document are met.
+
+### Beneficiary: 
+The beneficiary is the seller or exporter who will receive payment under the letter of credit. They are entitled to payment as long as they fulfill the terms and conditions stipulated in the LC, typically by presenting the required documents proving the shipment of the goods as per the agreed-upon terms.
+
+### Issuing Bank: 
+The issuing bank is the bank that issues the letter of credit at the request of the applicant. It undertakes to honor the beneficiary's compliant presentation of documents within the terms of the LC. The issuing bank's obligation is independent of the underlying sales contract between the buyer and the seller.
+
+### Advising Bank:
+The advising bank, also known as the notifying bank, is the bank in the beneficiary's country that receives the letter of credit from the issuing bank and advises it to the beneficiary. The advising bank's role is primarily to authenticate the letter of credit and forward it to the beneficiary.
+
+### Nominated Bank: 
+The Nominated bank, also known as the negotiating bank, is the bank that examines the documents presented by the beneficiary and decides whether to negotiate them (i.e., pay or accept them). It is the bank with which the credit is available or any bank in the case of a credit available with any bank.
+
+### Confirming Bank: 
+In some cases, the beneficiary may request that the LC be confirmed by a bank in their own country or a more reputable international bank. A confirming bank is a bank other than the issuing bank that adds its confirmation to a credit upon the issuing bank’s authorization or request. If the issuing bank fails to honor, the confirming bank must pay to the beneficiary.
+
+### Reimbursing  Bank:
+The Reimbursing bank, also known as the paying bank, is the bank designated in the letter of credit as the bank responsible for making payments to the beneficiary upon presentation of compliant documents. 
+
+While these parties are often banks, it's important to note that the functions associated with each party can sometimes be performed by different entities, not necessarily physical banks.
 
 # Letter of Credit Practices
 
