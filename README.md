@@ -273,6 +273,58 @@ On top of that, the specific conditions and requested documentation can differ s
 Banks also may require exporters to fulfill a diverse array of document requests, all by the specific terms outlined in the letter of credit.
 Lastly, it's not uncommon for banks to alter or even omit certain articles of the Uniform Customs and Practice for Documentary Credits (UCP 600) when issuing letters of credit, reflecting the nuanced nature of international trade finance.
 
+### MT 700
+
+MT 700 is a special swift message type that is used by issuing banks when issuing a letter of credit. It provides a standardized format for communicating the terms and conditions of LCs between banks, ensuring clarity and consistency in international trade finance transactions. 
+
+An issuing bank sends the terms and conditions of the documentary credit with an MT 700 Issue of a Documentary Credit swift message type. MT 700 message is sent by the issuing bank to the advising bank. It is used to indicate the terms and conditions of a documentary credit that has been originated by the Sender (issuing bank).
+
+Here is the structure of a typical MT 700 message:
+
+O : Optional
+
+M : Mandatory
+
+| Status | Tag | Field Name |
+| -------- | ------- | ------- |
+| M | 27 | Sequence of Total |
+| M | 40A | Form of Documentary Credit |
+| M | 20 | Documentary Credit Number |
+| O | 23 | Reference to Pre-Advice |
+| O | 31C | Date of Issue |
+| M | 40E | Applicable Rules |
+| M | 31D | Date and Place of Expiry |
+| O | 51a | Applicant Bank |
+| M | 50 | Applicant |
+| M | 59 | Beneficiary |
+| M | 32B | Currency Code, Amount |
+| O | 39A | Percentage Credit Amount Tolerance |
+| O | 39C | Additional Amounts Covered |
+| M | 41a | Available With ... By ... |
+| O | 42C | Drafts at ... |
+| O | 42a | Drawee |
+| O | 42M | Mixed Payment Details |
+| O | 42P | Negotiation/Deferred Payment Details |
+| O | 43P | Partial Shipments |
+| O | 43T | Transshipment |
+| O | 44A | Place of Taking in Charge/Dispatch from .../ Place of Receipt |
+| O | 44E | Port of Loading/Airport of Departure |
+| O | 44F | Port of Discharge/Airport of Destination |
+| O | 44B | Place of Final Destination/For Transportation to.../ Place of Delivery |
+| O | 44C | Latest Date of Shipment |
+| O | 44D | Shipment Period |
+| O | 45A | Description of Goods and/or Services |
+| O | 46A | Documents Required |
+| O | 47A | Additional Conditions |
+| O | 71B | Charges |
+| O | 48 | Period for Presentation |
+| M | 49 | Confirmation Instructions |
+| O | 53a | Reimbursing Bank |
+| O | 78 | Instructions to the Paying/Accepting/Negotiating Bank |
+| O | 57a | 'Advise Through' Bank |
+| O | 72 | Sender to Receiver Information |
+
+
 # Rubber
 
 Rubber has a long history that stretches back centuries. Natural rubber originates from the Amazon Rainforest region.  The indigenous peoples of South America, particularly those in the Amazon basin, were the first to discover the latex sap produced by certain trees, such as Hevea brasiliensis, commonly known as the rubber tree. They utilized this latex for various purposes, including waterproofing, making shoes, and creating balls for sports. 
