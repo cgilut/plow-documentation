@@ -586,9 +586,27 @@ Some examples of valid combinations:
 
 #### <ins> 46A: Documents Required </ins> (Optional)
 
+This field contains a description of any documents required.
 
+- When the ultimate date of issue of a transport document is specified, it is to be specified with the relative document in this field.
+- For credits subject to eUCP, the format in which electronic records are to be presented must be specified in this field.
+- To cater for lengthy documentary credits, up to three MT 701s may be sent in addition to an MT 700.
+- However, field 46a may appear in only one message, ie, either in the MT 700 or in one MT 701.
+- This means that in any documentary credit, there is a limit of 100 lines of 65 characters to specify the documents required.
+- The specification of each new item should begin on a new line, preceded by the sign ‘+’.
 
 #### <ins> 47A: Additional Conditions </ins> (Optional)
+
+This field contains a description of further conditions of the documentary credit.
+
+
+- In case the documentary credit is subject to any rules for which no code words are provided in field 40E, further details should be specified in this field.
+- To cater for lengthy documentary credits, up to three MT 701s may be sent in addition to an MT 700. However, field 47a may appear in only one message, ie, either in the MT 700 or in one MT 701. This means that in any documentary credit, there is a limit of 100 lines of 65 characters to specify the additional conditions.
+- Where applicable, for credits subject to eUCP:
+        - If presentation of both electronic records and paper documents is allowed, the place for presentation of the electronic records (ie, the electronic address to which presentation must be made) as well as the place for presentation of the paper documents must be specified in this field.
+        - If presentation of only electronic records is allowed, the place for presentation of the electronic records (ie, the electronic address to which presentation must be made) must be specified in this field.
+        - If not already part of the original documentary credit, the advising bank, ie, the receiver of the message, must provide the beneficiary or another advising bank with the electronic address of the issuing bank. Furthermore, the advising bank must provide the beneficiary or another advising bank with the electronic address where they wish the electronic records to be presented.
+        - In case the electronic address contains the “@” sign, the latter should be replaced by “(AT)”. In case the electronic address contains the “_”, the latter should be replaced by “(UNDERSCORE)”.
 
 
 
