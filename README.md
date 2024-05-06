@@ -10,7 +10,7 @@
 8. [Letter of Credit](#letter-of-credit)
 9. [Parties to Letters of Credit](#parties-to-letters-of-credit)
 10. [Letter of Credit Practices](#letter-of-credit-practices)
-11. [Letter of Credit Examples](#letter-of-credit-examples)
+11. [Letter of Credit Examples (MT 700)](#letter-of-credit-examples)
 12. [Rubber](#rubber)
 13. [Sales Order Confirmation](#sales-order-confirmation)
 14. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
