@@ -324,6 +324,138 @@ M : Mandatory
 | O | 57a | 'Advise Through' Bank |
 | O | 72 | Sender to Receiver Information |
 
+#### <ins> 27: Sequence of Total </ins> (Mandatory) 
+
+This field specifies the number of this message in the series of messages sent for a documentary credit, and the total number of messages in the series.
+The number must have a fixed value of 1 and Total must have a value in the range 1 to 8.
+
+#### <ins> 40A: Form of Documentary Credit </ins> (Mandatory)
+
+This field specifies the type of credit. It must contain one of the following codes:
+
+> IRREVOCABLE
+
+  The documentary credit is irrevocable
+ 
+> IRREVOCABLE TRANSFERABLE
+
+  The documentary credit is irrevocable and transferable
+
+#### <ins> 20: Documentary Credit Number </ins> (Mandatory)
+
+This field specifies the documentary credit number which has been assigned by the Sender.
+This field must not start or end with a slash ‘/’ and must not contain two consecutive slashes ‘//’.
+
+#### <ins> 23: Reference to Pre-Advice </ins> (Optional)
+
+The use of this field indicates that the documentary credit has been pre-advised. It must contain the code
+
+> PREADV
+
+followed by a slash '/' and a reference to the pre-advice.
+
+#### <ins> 31C Date of Issue </ins> (Optional)
+
+This field specifies the date on which the issuing bank (Sender) considers the documentary credit as being issued. An issuing bank is irrevocably bound to honor as of the time it issues the credit. The commitment of the issuing bank to honor begins with the issue of the credit.
+
+The date must contain a valid date expressed as:
+
+> YYMMDD
+
+#### <ins> 40E Applicable Rules </ins> (Mandatory)
+
+This field is used to indicate the rules that govern the letter of credit, it must contain one of the following codes:
+
+> EUCP LATEST VERSION
+
+The credit is subject to the version of the Supplement of the
+ICC Uniform Customs and Practice for Documentary Credits
+for Electronic Presentations, International Chamber of
+Commerce, Paris, France, which is in effect on the date of
+issue.
+
+> EUCPURR LATEST VERSION
+
+The credit is subject to the version of the Supplement of the
+ICC Uniform Customs and Practice for Documentary Credits
+for Electronic Presentations, International Chamber of
+Commerce, Paris, France, which is in effect on the date of
+issue. The reimbursement is subject to the version of the
+Uniform Rules for Bank-to-Bank Reimbursements,
+International Chamber of Commerce, Paris, France, which is
+in effect on the date of issue.
+
+> OTHR
+
+The credit is subject to another set of rules, or the credit is not
+subject to the version of the rules that is in effect on the date
+of issue, these must be specified in Narrative (2nd subfield).
+
+> UCP LATEST VERSION
+
+The credit is subject to the version of the ICC Uniform
+Customs and Practice for Documentary Credits, International
+Chamber of Commerce, Paris, France, which is in effect on
+the date of issue.
+
+> UCPURR LATEST VERSION
+
+The credit is subject to the version of the ICC Uniform
+Customs and Practice for Documentary Credits, International
+Chamber of Commerce, Paris, France, which is in effect on
+the date of issue. The reimbursement is subject to the version
+of the Uniform Rules for Bank-to-Bank Reimbursements under
+documentary credits, International Chamber of Commerce,
+Paris, France, which is in effect on the date of issue.
+
+#### <ins> 31D: Date and Place of Expiry </ins> (Mandatory)
+
+This field specifies the latest date for presentation under the documentary credit and the place where
+documents may be presented.
+
+The date must contain a valid date expressed as:
+
+> YYMMDD
+
+#### <ins> 51a: Applicant Bank </ins> (Optional)
+
+This field specifies the bank of the applicant customer, if different from the issuing bank. Identifier Code must be a registered financial institution BIC.
+This field should be used when the applicant’s bank could not issue the letter of credit by itself but has the letter of credit issued to another bank. 
+
+#### <ins> 50: Applicant </ins> (Mandatory)
+
+This field specifies the party on behalf of which the documentary credit is being issued.
+
+#### <ins> 59: Beneficiary </ins> (Mandatory)
+
+This field specifies the party in favor of which the documentary credit is being issued.
+
+#### <ins> 32B: Currency Code, Amount </ins> (Mandatory)
+
+The currency must be a valid ISO 4217 currency code.
+
+The integer part of the Amount must contain at least one digit. The decimal comma ‘,’ is mandatory and is included in the maximum length. The number of digits following the comma must not exceed the maximum number allowed for the specified currency.
+
+A commercial invoice must be made out in the same currency as the credit.
+The insurance document must indicate the amount of insurance coverage and be in the same currency as the credit.
+
+The words “about” or “approximately” used in connection with the amount of the credit or the quantity or the unit price stated in the credit are to be construed as allowing a tolerance not to exceed 10% more or 10% less than the amount, the quantity or the unit price to which they refer.
+
+Special information relative to the amount of the credit must be specified in field 39A Percentage Credit Amount Tolerance, field 39B Maximum Credit Amount or field 39C Additional Amounts Covered.
+
+#### <ins> 39A: Percentage Credit Amount Tolerance </ins> (Optional)
+
+This field specifies the tolerance relative to the documentary credit amount as a percentage plus and/or
+minus that amount. Tolerance 1 specifies a positive tolerance, the Tolerance 2 specifies a negative tolerance.
+
+#### <ins> 39C: Additional Amounts Covered </ins> (Optional)
+
+This field specifies any additional amounts available to the beneficiary under the terms of the credit, such
+as insurance, freight, interest, etc.
+
+#### <ins> 41a: Available With ... By ... </ins> (Mandatory)
+
+This field specifies the location and method for the beneficiary (seller) to obtain payment. This field identifies the bank with which the credit is available (the place for presentation) and an indication of how the credit is available.
 
 # Rubber
 
