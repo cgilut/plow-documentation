@@ -10,7 +10,7 @@
 8. [Letter of Credit](#letter-of-credit)
 9. [Parties to Letters of Credit](#parties-to-letters-of-credit)
 10. [Letter of Credit Practices](#letter-of-credit-practices)
-11. [Letter of Credit Examples (MT 700)](#letter-of-credit-examples)
+11. [Letter of Credit Structure (MT 700/701)](#letter-of-credit-structure)
 12. [Rubber](#rubber)
 13. [Sales Order Confirmation](#sales-order-confirmation)
 14. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
@@ -265,7 +265,7 @@ The latest version is the UCP 600, which replaced the UCP 500 on the 1st of July
 
 ISP 98 is tailored specifically for standby letters of credit and demand guarantees, whereas UCP 600 is more broadly applicable to all types of documentary credits, including commercial letters of credit. It provides a detailed legal framework for standby transactions, covering topics such as drafting, issuance, presentation, examination, and payment of standby documents. It emphasizes the autonomy of standby credits and the importance of strict compliance with the terms and conditions specified in the standby.
 
-# Letter of Credit Examples
+# Letter of Credit Structure
 
 The realm of letters of credit is vast and constantly evolving. The terms governing letters of credit can vary considerably from one country to another.
 As import regulations shift across different nations, banks adjust the language of the letter of credit documents to ensure compliance with these evolving requirements.
