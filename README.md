@@ -10,9 +10,10 @@
 8. [Letter of Credit](#letter-of-credit)
 9. [Parties to Letters of Credit](#Parties-to-Letters-of-Credit)
 10. [Letter of Credit Practices](#letter-of-credit-practices)
-11. [Rubber](#rubber)
-12. [Sales Order Confirmation](#sales-order-confirmation)
-13. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
+11. [Letter of Credit Examples](#letter-of-credit-examples)
+12. [Rubber](#rubber)
+13. [Sales Order Confirmation](#sales-order-confirmation)
+14. [Buyer’s Instructions to Seller](#buyers-instructions-to-seller)
 
 
 # What are commodities? 
@@ -263,6 +264,10 @@ The latest version is the UCP 600, which replaced the UCP 500 on the 1st of July
 **The International Standby Practices (ISP) for Demand Guarantees**, or simply ISP 98, is a set of rules and guidelines developed by the International Chamber of Commerce (ICC) specifically for standby letters of credit and demand guarantees. It provides a comprehensive framework for the use and interpretation of standby letters of credit, focusing primarily on the rights and obligations of the parties involved in standby transactions. It was published on the 1st of January 1999.
 
 ISP 98 is tailored specifically for standby letters of credit and demand guarantees, whereas UCP 600 is more broadly applicable to all types of documentary credits, including commercial letters of credit. It provides a detailed legal framework for standby transactions, covering topics such as drafting, issuance, presentation, examination, and payment of standby documents. It emphasizes the autonomy of standby credits and the importance of strict compliance with the terms and conditions specified in the standby.
+
+# Letter of Credit Examples
+
+
 
 # Rubber
 
