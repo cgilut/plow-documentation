@@ -275,7 +275,7 @@ Lastly, it's not uncommon for banks to alter or even omit certain articles of th
 
 ### MT 700
 
-MT 700 is a special swift message type that is used by issuing banks when issuing a letter of credit. It provides a standardized format for communicating the terms and conditions of LCs between banks, ensuring clarity and consistency in international trade finance transactions. 
+MT 700 is a special swift message type that is used by issuing banks when issuing a letter of credit. It provides a standardized format for communicating the terms and conditions of LCs between banks, ensuring clarity and consistency in international trade finance transactions. When the documentary credit message exceeds the maximum input message length, additional documentary credit information should be transmitted via one or more MT 701s. Up to three MT 701s may be sent in addition to the MT 700.
 
 An issuing bank sends the terms and conditions of the documentary credit with an MT 700 Issue of a Documentary Credit swift message type. MT 700 message is sent by the issuing bank to the advising bank. It is used to indicate the terms and conditions of a documentary credit that has been originated by the Sender (issuing bank).
 
@@ -419,8 +419,8 @@ The date must contain a valid date expressed as:
 
 #### <ins> 51a: Applicant Bank </ins> (Optional)
 
-This field specifies the bank of the applicant customer, if different from the issuing bank. Identifier Code must be a registered financial institution BIC.
-This field should be used when the applicant’s bank could not issue the letter of credit by itself but has the letter of credit issued to another bank. 
+This field specifies the bank of the applicant customer, if different from the issuing bank. The Identifier Code must be a registered financial institution BIC.
+This field should be used when the applicant’s bank cannot issue the letter of credit by itself but has the letter of credit issued to another bank. 
 
 #### <ins> 50: Applicant </ins> (Mandatory)
 
@@ -455,7 +455,142 @@ as insurance, freight, interest, etc.
 
 #### <ins> 41a: Available With ... By ... </ins> (Mandatory)
 
-This field specifies the location and method for the beneficiary (seller) to obtain payment. This field identifies the bank with which the credit is available (the place for presentation) and an indication of how the credit is available.
+This field specifies the location and method for the beneficiary (seller) to obtain payment. This field identifies the bank with which the credit is available (the place for presentation) and an indication of how the credit is available. There are 2 options available - A and D. Option A has identifier code BIC, while option D has name and address. They must contain one of the following codes:
+
+> BY ACCEPTANCE
+>
+> BY DEF PAYMENT
+>
+> BY MIXED PYMT
+>
+> BY NEGOTIATION
+>
+> BY PAYMENT
+
+The Identifier Code must be a registered financial institution BIC. 
+If the credit is to be freely negotiable by any bank, option D must be used with the phrase Any bank in ...
+(city or country). If the credit is to be freely negotiable by any bank anywhere in the world, an indication
+of the country is not required.
+When the Code contains either BY DEF PAYMENT or BY MIXED PYMT, the specific details of the payment
+terms must be specified in fields 42P and 42M respectively.
+When the Code contains BY PAYMENT, this should be understood to mean payment at sight.
+
+#### <ins> 42C: Drafts at ... </ins> (Optional)
+
+This field specifies the tenor of drafts to be drawn under the documentary credit. It designates where the documents related to the transaction should be sent for payment or acceptance.
+When used, fields 42C and 42a must both be present.
+Either fields 42C and 42a together, field 42M alone, or field 42P alone may be present. No other combination of these fields is allowed.
+
+#### <ins> 42a: Drawee </ins> (Optional)
+
+This field identifies the drawee of the drafts to be drawn under the documentary credit.
+The drawee must be a bank. If drafts of the applicant are required, they are to be listed as documents in field 46A.
+When used, fields 42C and 42a must both be present. Either fields 42C and 42a together, field 42M alone, or field 42P alone may be present. No other combination of these fields is allowed.
+
+#### <ins> 42M: Mixed Payment Details </ins> (Optional)
+
+This field indicates if the payment for the transaction is to be made using different methods or currencies.
+
+#### <ins> 42P: Negotiation/Deferred Payment Details </ins> (Optional)
+
+This field specifies the payment date or method for its determination in a documentary credit which is
+available by deferred payment or negotiation only.
+
+Either fields 42C and 42a together, field 42M alone, or field 42P alone may be present. No other combination of these fields is allowed.
+
+#### <ins> 43P: Partial Shipments </ins> (Optional)
+
+This field specifies whether or not partial shipments are allowed under the documentary credit. According to letter of credit rules partial drawings or shipments are allowed unless otherwise stated on the credit.
+
+Must contain one of the following codes:
+
+> ALLOWED
+
+Allowed under the documentary credit.
+
+> CONDITIONAL
+
+Conditional based on conditions specified elsewhere in the message.
+
+> NOT ALLOWED
+
+Not allowed under the documentary credit.
+
+#### <ins> 43T: Transshipment </ins> (Optional)
+
+This field specifies whether or not transshipment is allowed under the documentary credit.
+
+According to the letter of credit rules, transshipment means unloading from one means of conveyance and reloading to another means of conveyance (whether or not in different modes of transport) during the carriage from the place of dispatch, taking in charge or shipment to the place of final destination stated in the credit.
+
+Must contain one of the following codes:
+
+> ALLOWED
+
+Allowed under the documentary credit.
+
+> CONDITIONAL
+
+Conditional based on conditions specified elsewhere in the message.
+
+> NOT ALLOWED
+
+Not allowed under the documentary credit.
+
+#### <ins> 44A:  Place of Taking in Charge/Dispatch from .../ Place of Receipt </ins> (Optional)
+
+This field specifies the place of taking charge (in the case of a multimodal transport document), the place of
+receipt (in case of a road, rail, or inland waterway transport document or a courier or expedited delivery
+service document), the place of dispatch or the place of shipment to be indicated on the transport
+document.
+
+
+#### <ins> 44E: Port of Loading/Airport of Departure </ins> (Optional)
+
+This field specifies the port of loading or airport of departure to be indicated on the transport document.
+
+
+#### <ins> 44F: Port of Discharge/Airport of Destination </ins> (Optional)
+
+This field specifies the port of discharge or airport of destination to be indicated on the transport
+document.
+
+#### <ins> 44B: Place of Final Destination/For Transportation to.../ Place of Delivery </ins> (Optional)
+
+This field specifies the final destination or place of delivery to be indicated on the transport document.
+
+#### <ins> 44C: Latest Date of Shipment </ins> (Optional)
+
+This field specifies the latest date for loading on board/dispatch/taking in charge.
+
+The date must contain a valid date expressed as:
+
+> YYMMDD
+
+#### <ins> 44D: Shipment Period </ins> (Optional)
+
+This field specifies the period of time during which the goods are to be loaded on board/despatched/taken in charge.
+
+Either field Field 44C: Latest Date of Shipment or Field 44D: Shipment Period, but not both, may be present.
+
+#### <ins> 45A: Description of Goods and/or Services </ins> (Optional)
+
+This field contains a description of the goods and/or services.
+
+Terms such as FOB, CIF, etc. should be specified in this field.
+
+To cater for lengthy documentary credits, up to three MT 701s may be sent in addition to an MT 700. However, field 45a may appear in only one message, ie, either in the MT 700 or in one MT 701. This means that in any documentary credit, there is a limit of 100 lines of 65 characters to specify the description of goods and/or services.
+
+Some examples of valid combinations:
+- MT 700 contains fields 45A, 46A, and 47A.
+- MT 700 contains field 45A; the subsequent MT 701 contains fields 46B and 47B.
+
+#### <ins> 46A: Documents Required </ins> (Optional)
+
+
+
+#### <ins> 47A: Additional Conditions </ins> (Optional)
+
+
 
 # Rubber
 
