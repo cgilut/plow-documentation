@@ -608,6 +608,116 @@ This field contains a description of further conditions of the documentary credi
   - If not already part of the original documentary credit, the advising bank, ie, the receiver of the message, must provide the beneficiary or another advising bank with the electronic address of the issuing bank. Furthermore, the advising bank must provide the beneficiary or another advising bank with the electronic address where they wish the electronic records to be presented.
   - In case the electronic address contains the “@” sign, the latter should be replaced by “(AT)”. In case the electronic address contains the “_”, the latter should be replaced by “(UNDERSCORE)”.
 
+#### <ins> 71B: Charges </ins> (Optional)
+
+This field is used to specify charges to be borne by the beneficiary.
+
+One or more of the following codes may be used, followed by the currency code and amount:
+
+> AGENT
+
+Agent’s commission.
+
+
+> COMM
+
+Our commission.
+
+
+> CORCOM
+
+Our correspondent’s commission.
+
+
+> DISC
+
+Commercial discount.
+
+
+> INSUR
+
+Insurance premium.
+
+
+> POST
+
+Our postage.
+
+
+> STAMP
+
+Stamp duty.
+
+
+> TELECHAR
+
+Teletransmission charges.
+
+
+> WAREHOUS
+
+Wharfing and warehouse.
+
+#### <ins> 48: Period for Presentation </ins> (Optional)
+
+This field specifies the number of calendar days after the date of shipment within which the documents
+must be presented for payment, acceptance, or negotiation. The absence of this field means that the presentation period is 21 days after the date of shipment, where
+applicable.
+
+#### <ins> 49: Confirmation Instructions </ins> (Mandatory)
+
+This field contains confirmation instructions for the requested confirmation party.
+
+Must contain one of the following codes:
+
+> CONFIRM
+
+The requested confirmation party is requested to confirm the credit
+
+
+> MAY ADD
+
+The requested confirmation party may add its confirmation to the credit
+
+
+> WITHOUT
+
+No confirmation is requested
+
+#### <ins> 53a: Reimbursing Bank </ins> (Mandatory)
+
+This field specifies the name of the bank which has been authorized by the Sender to reimburse drawings
+under the documentary credit. This may be a branch of the Sender or the Receiver or an entirely different
+bank. 
+
+There are 2 options available - A and D. Option A has identifier code BIC, while option D has name and address. Identifier Code must be a registered financial institution BIC.
+
+#### <ins> 78: Instructions to the Paying/Accepting/Negotiating Bank </ins> (Optional)
+
+This field specifies instructions to the paying, accepting, or negotiating bank. It may also indicate if pre-notification of a reimbursement claim or pre-debit notification to the issuing bank is required
+
+#### <ins> 57a: 'Advise Through' Bank </ins> (Optional)
+
+This field identifies the bank, if different from the Receiver, through which the documentary credit is to be advised/confirmed to the beneficiary.
+
+#### <ins> 72: Sender to Receiver Information </ins> (Optional)
+
+This field specifies additional information for the Receiver.
+
+One or more of the following codes may be used:
+
+> PHONBEN
+
+Telephone beneficiary
+
+Please advise/contact the beneficiary by phone.
+
+
+> TELEBEN
+
+Telecommunication 
+
+Please advise the beneficiary by the most efficient means of telecommunication
 
 
 # Rubber
