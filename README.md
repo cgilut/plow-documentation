@@ -771,65 +771,121 @@ https://www.plow.group/general-terms-and-conditions
 
 ### 2. PROVISIONS
 
-2.1 **Amendments:** Changes to the contract must be in writing and signed by both parties, except for electronic sales orders.
+2.1 **Amendments:** 
 
-2.2 **Assignment:** Neither party can transfer their rights or obligations without the other party's consent, except the seller can transfer within its group without consent.
+Changes to the contract must be in writing and signed by both parties, except for electronic sales orders.
 
-2.3 **Binding effect:** The contract's terms apply to both parties and anyone they pass their rights to.
+2.2 **Assignment:** 
 
-2.4 **Change of notice details:** If contact information changes, both parties must inform each other promptly.
+Neither party can transfer their rights or obligations without the other party's consent, except the seller can transfer within its group without consent.
 
-2.5 **Email correspondence:** Emails from the seller to the buyer are valid only if sent from a specific email address of the seller's domain.
+2.3 **Binding effect:** 
 
-2.6 **Entire Contract:** The contract, along with any changes, is the full agreement between the parties and replaces any previous agreements.
+The contract's terms apply to both parties and anyone they pass their rights to.
 
-2.7 **Execution:** Both parties can sign the contract and related documents.
+2.4 **Change of notice details:** 
 
-2.8 **Expenses:** Each party pays for their own expenses related to the contract.
+If contact information changes, both parties must inform each other promptly.
 
-2.9 **Language of correspondence:** All communication about the contract should be in English.
+2.5 **Email correspondence:** 
 
-2.10 **Language:** These GTC are made in the English language.
+Emails from the seller to the buyer are valid only if sent from a specific email address of the seller's domain.
 
-2.11 **Notices:** Official communication must be in writing, in English, and delivered in person, through recognized courier service, or by email.
+2.6 **Entire Contract:** 
 
-2.12 **Reference to period:** Timeframes mentioned in the contract are calculated in days, weeks, months, or years unless stated otherwise.
+The contract, along with any changes, is the full agreement between the parties and replaces any previous agreements.
 
-2.13 **Severability:** If any part of the contract is found invalid, the rest still stands, and parties will try to replace the invalid part.
+2.7 **Execution:** 
 
-2.14 **Date of notice receipt:** The date a notice is received depends on how it's sent, like by hand or by email.
+Both parties can sign the contract and related documents.
 
-2.15 **Parties’ relationship:** The seller and the buyer are independent businesses, not partners or employees of each other.
+2.8 **Expenses:** 
 
-2.16 **Seller’s warranties, guarantees, and representations:** The seller promises they legally own the goods they're selling, but they don't guarantee anything beyond that.
+Each party pays for their own expenses related to the contract.
 
-2.17 **Waiver:** Forgiveness for not following the contract's rules must be in writing, and forgiving one mistake doesn't mean forgiving future ones.
+2.9 **Language of correspondence:** 
 
-2.17. **Writing:** Any reference to "writing" includes emails or any other way of putting words down in a visible form.
+All communication about the contract should be in English.
+
+2.10 **Language:** 
+
+These GTCs are made in the English language.
+
+2.11 **Notices:** 
+
+Official communication must be in writing, in English, and delivered in person, through a recognized courier service, or by email.
+
+2.12 **Reference to period:** 
+
+Timeframes mentioned in the contract are calculated in days, weeks, months, or years unless stated otherwise.
+
+2.13 **Severability:** 
+
+If any part of the contract is found invalid, the rest still stands, and parties will try to replace the invalid part.
+
+2.14 **Date of notice receipt:** 
+
+The date a notice is received depends on how it's sent, like by hand or by email.
+
+2.15 **Parties’ relationship:** 
+
+The Seller and the Buyer are independent businesses, not partners or employees of each other.
+
+2.16 **Seller’s warranties, guarantees, and representations:** 
+
+The Seller promises they legally own the goods they're selling, but they don't guarantee anything beyond that.
+
+2.17 **Waiver:** 
+
+Forgiveness for not following the contract's rules must be in writing, and forgiving one mistake doesn't mean forgiving future ones.
+
+2.17. **Writing:** 
+
+Any reference to "writing" includes emails or any other way of putting words down in a visible form.
 
 ### 3. GENERAL CONDITIONS
 
-3.1 **Execution of the Contract:** When the Buyer accepts the contract, it means they agree to the General Terms and Conditions (GTC) without any exceptions.
+3.1 **Execution of the Contract:** 
 
-3.2 **GTC Application:** The GTC rules apply over any terms the Buyer might have, including those in their own documents or correspondence, unless both parties agree in writing to change them.
+When the Buyer accepts the contract, it means they agree to the General Terms and Conditions (GTC) without any exceptions.
+
+3.2 **GTC Application:** 
+
+The GTC rules apply over any terms the Buyer might have, including those in their own documents or correspondence, unless both parties agree in writing to change them.
 
 ### 4. CONTRACT FORMATION
 
-4.1 **Negotiation for Buying Goods:** If the Buyer wants to buy Goods from the Seller, they'll discuss either a Term Contract or a Spot Contract in good faith.
+4.1 **Negotiation for Buying Goods:** 
 
-4.2 **Contract Terms:** If the Parties agree to a Contract in a different way than mentioned in Article 4.1, these GTC for the Goods will control that Contract. Other terms, including the Buyer's standard purchasing terms, won't apply. The Seller isn't obligated to accept any Purchase Orders unless they follow the established procedures.
+If the Buyer wants to buy Goods from the Seller, they'll discuss either a Term Contract or a Spot Contract in good faith.
 
-4.3 **Valid Contracts:** Contracts are officially formed when both Parties sign them.
+4.2 **Contract Terms:** 
 
-4.4 **Written Communications:** Purchase Orders, Sales Order Confirmations, and any communication related to them must be in writing. They can be delivered as hard copies signed by an authorized representative or by email from designated email addresses specified in the Contract.
+If the Parties agree to a Contract in a different way than mentioned in Article 4.1, these GTC for the Goods will control that Contract. Other terms, including the Buyer's standard purchasing terms, won't apply. The Seller isn't obligated to accept any Purchase Orders unless they follow the established procedures.
 
-4.5 **Validity of Communication:** If the Buyer sends a Communication from someone or somewhere not specified in the Contract, and hasn't notified the Seller of any changes beforehand, the Seller may choose to ignore it.
+4.3 **Valid Contracts:** 
 
-4.6 **Date of Communication:** The Communication is considered received when the recipient acknowledges it or 24 hours after transmission unless there's proof it wasn't successfully delivered.
+Contracts are officially formed when both Parties sign them.
 
-4.7 **Invoices and Credit Notes:** Seller's invoices or credit notes can be delivered as hard copies or electronically via email, with electronic forms considered original.
+4.4 **Written Communications:** 
 
-4.8 **Purchase Order Requirements:** If the Buyer wants to purchase Goods, they need to send a completed KYC form and Purchase Order specifying details:
+Purchase Orders, Sales Order Confirmations, and any communication related to them must be in writing. They can be delivered as hard copies signed by an authorized representative or by email from designated email addresses specified in the Contract.
+
+4.5 **Validity of Communication:** 
+
+If the Buyer sends a Communication from someone or somewhere not specified in the Contract and hasn't notified the Seller of any changes beforehand, the Seller may choose to ignore it.
+
+4.6 **Date of Communication:** 
+
+The Communication is considered received when the recipient acknowledges it or 24 hours after transmission unless there's proof it wasn't successfully delivered.
+
+4.7 **Invoices and Credit Notes:** 
+
+The Seller's invoices or credit notes can be delivered as hard copies or electronically via email, with electronic forms considered original.
+
+4.8 **Purchase Order Requirements:** 
+
+If the Buyer wants to purchase Goods, they need to send a completed KYC form and Purchase Order specifying details:
 - the type of Goods which the Buyer wishes to purchase;
 - quantity of the Goods;
 - place of delivery;
@@ -837,72 +893,140 @@ https://www.plow.group/general-terms-and-conditions
 - Buyer’s order number and
 - other information concerning the Goods delivery.
 
-4.9 **Confirmation and Amendments:** The Seller notifies the Buyer of their confirmation or proposed changes to the Purchase Order by sending the Sales Order Confirmation (SOC), Proforma Invoice, and draft of Buyer’s Instructions to the Seller.
+4.9 **Confirmation and Amendments:**
 
-4.10 **Acceptance of SOC:** The Buyer needs to accept the SOC within the specified timeframe. If not, the Seller's offer to deliver the Goods according to the SOC terms is canceled, and the Buyer needs to place a new Purchase Order.
+The Seller notifies the Buyer of their confirmation or proposed changes to the Purchase Order by sending the Sales Order Confirmation (SOC), Proforma Invoice, and draft of Buyer’s Instructions to the Seller.
 
-4.11 **Signing SOC:** The Buyer signs the SOC and sends it back to the Seller within the SOC validity period.
+4.10 **Acceptance of SOC:** 
 
-4.12 **Buyer’s Instructions to Seller (BIS):** The Buyer instructs the Seller by completing and sending the BIS within five Business Days after SOC confirmation. The BIS includes details of documentation, delivery place, and other requested information. Seller considers the BIS accepted within three Business days of receipt.
+The Buyer needs to accept the SOC within the specified timeframe. If not, the Seller's offer to deliver the Goods according to the SOC terms is canceled, and the Buyer needs to place a new Purchase Order.
 
-4.13 **Contract Formation:** Upon the Buyer’s acceptance of the SOC and the Seller’s acceptance of the BIS, both become part of a binding Contract for the sale and purchase of specified Goods under the agreed terms and conditions.
+4.11 **Signing SOC:** 
+
+The Buyer signs the SOC and sends it back to the Seller within the SOC validity period.
+
+4.12 **Buyer’s Instructions to Seller (BIS):** 
+
+The Buyer instructs the Seller by completing and sending the BIS within five Business Days after SOC confirmation. The BIS includes details of documentation, delivery place, and other requested information. Seller considers the BIS accepted within three Business days of receipt.
+
+4.13 **Contract Formation:** 
+
+Upon the Buyer’s acceptance of the SOC and the Seller’s acceptance of the BIS, both become part of a binding Contract for the sale and purchase of specified Goods under the agreed terms and conditions.
 
 ### GENERAL DELIVERY TERMS, TRANSFER OF RISK AND TITLE
 
-5.1 **Delivery of Goods:** The Seller will deliver the goods based on Incoterms® 2020 and the terms of the contract.
+5.1 **Delivery of Goods:** 
 
-5.2 **Risk Transfer:** The risk of goods passes to the Buyer as per agreed Incoterms® 2020. Different delivery methods have different transfer points.
+The Seller will deliver the goods based on Incoterms® 2020 and the terms of the contract.
 
-5.3 **Transport Selection:** If not specified, the Seller chooses the transport method. The Buyer accepts this choice.
+5.2 **Risk Transfer:** 
 
-5.4 **Delivery Timing:** The Seller aims to deliver on time but isn't liable for delays. If the Seller can't deliver within 90 days, either party can cancel the shipment.
+The risk of goods passes to the Buyer as per agreed Incoterms® 2020. Different delivery methods have different transfer points.
 
-5.5 **Contract Fulfillment:** Both parties must do what's necessary under the law to meet the contract's terms.
+5.3 **Transport Selection:** 
 
-5.6 **Sanctions Indemnification:** The Buyer covers any losses the Seller faces due to sanctions at the destination.
+If not specified, the Seller chooses the transport method. The Buyer accepts this choice.
 
-5.7 **Transportation Documents:** Specific documents are needed for different transport methods.
+5.4 **Delivery Timing:** 
 
-5.8 **Bill of Lading Review:** The Buyer reviews the Bill of Lading draft before it's finalized.
+The Seller aims to deliver on time but isn't liable for delays. If the Seller can't deliver within 90 days, either party can cancel the shipment.
 
-5.9 **Delivery Order:** A document for transferring goods within a warehouse.
+5.5 **Contract Fulfillment:** 
 
-5.10 **Bill of Lading Review Time:** Buyer must review the Bill of Lading draft promptly.
+Both parties must do what's necessary under the law to meet the contract's terms.
 
-5.11 **Bill of Lading Changes:** Buyer pays for any changes requested after a certain point.
+5.6 **Sanctions Indemnification:** 
 
-5.12 **Insurance Policy Review:** Buyer must review the insurance policy draft promptly if applicable.
+The Buyer covers any losses the Seller faces due to sanctions at the destination.
 
-5.13 **Delivery Confirmation:** The Seller provides documents confirming delivery.
+5.7 **Transportation Documents:** 
 
-5.14 **Delivery Dates:** Any date within an agreed period can be considered for delivery.
+Specific documents are needed for different transport methods.
 
-5.15 **Unloading Information:** The Seller provides necessary unloading information promptly.
+5.8 **Bill of Lading Review:**
 
-5.16 **Auto Truck Substitution:** The Seller can substitute trucks if needed.
+The Buyer reviews the Bill of Lading draft before it's finalized.
 
-5.17 **Buyer's Unloading Instructions:** If provided, the Seller may assist in unloading as requested.
+5.9 **Delivery Order:** 
 
-5.18 **Safe Destination:** The Buyer must ensure the delivery place is safe and suitable.
+A document for transferring goods within a warehouse.
 
-5.19 **Buyer's Presence:** Buyer must be present at the delivery place for unloading.
+5.10 **Bill of Lading Review Time:** 
 
-5.20 **Unloading Time:** Buyer has a set time to unload goods.
+The Buyer must review the Bill of Lading draft promptly.
 
-5.21 **Additional Services:** Buyer can request extra services, agreeing to cover associated costs.
+5.11 **Bill of Lading Changes:**
 
-5.22 **Delivery Refusal:** Seller can refuse delivery under certain circumstances.
+The Buyer pays for any changes requested after a certain point.
 
-5.23 **Alternative Route Indemnification:** If the Buyer suggests a new route, they cover extra costs.
+5.12 **Insurance Policy Review:** 
 
-5.24 **Document Submission:** Buyer must return signed documents promptly.
+The Buyer must review the insurance policy draft promptly if applicable.
 
-5.25 **Transport Condition:** Buyer must promptly report any transport damage.
+5.13 **Delivery Confirmation:** 
 
-5.26 **Cash on Delivery Payment:** Buyer pays upon delivery, or Seller can demand a fine for non-payment.
+The Seller provides documents confirming delivery.
 
-5.27 **Metal Container Responsibility:** Buyer is responsible for metal container handling and return.
+5.14 **Delivery Dates:** 
 
-5.28 **Container Cleaning:** Buyer must clean containers after delivery by sea.
+Any date within an agreed period can be considered for delivery.
 
-5.29 **Post Payment Title Retention:** Seller retains ownership until full payment is received, even if goods are mixed.
+5.15 **Unloading Information:** 
+
+The Seller provides necessary unloading information promptly.
+
+5.16 **Auto Truck Substitution:** 
+
+The Seller can substitute trucks if needed.
+
+5.17 **Buyer's Unloading Instructions:** 
+
+If provided, the Seller may assist in unloading as requested.
+
+5.18 **Safe Destination:** 
+
+The Buyer must ensure the delivery place is safe and suitable.
+
+5.19 **Buyer's Presence:**
+
+The Buyer must be present at the delivery place for unloading.
+
+5.20 **Unloading Time:** 
+
+The Buyer has a set time to unload goods.
+
+5.21 **Additional Services:** 
+
+The Buyer can request extra services, agreeing to cover associated costs.
+
+5.22 **Delivery Refusal:** 
+
+The Seller can refuse delivery under certain circumstances.
+
+5.23 **Alternative Route Indemnification:** 
+
+If the Buyer suggests a new route, they cover extra costs.
+
+5.24 **Document Submission:**
+
+The Buyer must return signed documents promptly.
+
+5.25 **Transport Condition:** 
+
+The Buyer must promptly report any transport damage.
+
+5.26 **Cash on Delivery Payment:** 
+
+The Buyer pays upon delivery, or the Seller can demand a fine for non-payment.
+
+5.27 **Metal Container Responsibility:** 
+
+The Buyer is responsible for metal container handling and return.
+
+5.28 **Container Cleaning:** 
+
+The Buyer must clean containers after delivery by sea.
+
+5.29 **Post Payment Title Retention:** 
+
+The Seller retains ownership until full payment is received, even if goods are mixed.
