@@ -913,7 +913,7 @@ The Buyer instructs the Seller by completing and sending the BIS within five Bus
 
 Upon the Buyer’s acceptance of the SOC and the Seller’s acceptance of the BIS, both become part of a binding Contract for the sale and purchase of specified Goods under the agreed terms and conditions.
 
-### GENERAL DELIVERY TERMS, TRANSFER OF RISK AND TITLE
+### 5. GENERAL DELIVERY TERMS, TRANSFER OF RISK AND TITLE
 
 5.1 **Delivery of Goods:** 
 
