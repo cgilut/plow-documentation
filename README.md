@@ -1030,3 +1030,121 @@ The Buyer must clean containers after delivery by sea.
 5.29 **Post Payment Title Retention:** 
 
 The Seller retains ownership until full payment is received, even if goods are mixed.
+
+### 6. Payment:
+
+#### 6.1 Payment provisions:
+
+6.1.1 **Price Payment:** 
+
+The Buyer must pay the Price for the Goods as stated in the Contract.
+
+6.1.2 **Timeliness:** 
+
+Payment must be made on time.
+
+6.1.3 **Payment Method:**
+
+The Buyer should pay via telegraphic transfer using the Seller's bank details provided in the invoice. The payment reference should include specific Contract and invoice details.
+
+6.1.4 **SWIFT Confirmation:** 
+
+The Buyer must send a copy of the SWIFT confirmation to the Seller within one Business Day of making the payment.
+
+6.1.5 **Taxes:** 
+
+Unless otherwise stated, the Price does not include taxes, and the Seller may invoice the Buyer for any applicable taxes.
+
+6.1.6 **Payment Date:** 
+
+Payment is considered made when the Seller's bank account is credited with 100% of the invoiced amount.
+
+6.1.7 **Clearing Payments:**
+
+Payments must be made in cleared funds, without any deductions or set-offs, and free from any taxes or charges. Any deductions required by law must be compensated by the paying party.
+
+6.1.8 **Retentions:**
+
+The total amount specified in the payment document must be transmitted to the Seller's account without any retentions, deductions, or withholdings.
+
+6.1.9 **Verification Act:**
+
+Both parties must fully execute the Verification Act. The Seller sends the signed Verification Act to the Buyer, who then has three business days to check the Goods and raise objections if needed. The Seller must address these objections within seven business days.
+
+6.1.10 **Currency:** 
+
+Payments must be made in the currency specified in the invoice (USD, EUR, or CNY). If a different currency is specified, payments are to be made in USD or EUR at the exchange rate of the Buyer's national bank on the Payment Date. Failure to comply with currency requirements is considered a material breach of the Contract.
+
+#### 6.2 Payment terms:
+
+6.2.1 **Cash on Delivery:**
+
+The Buyer must pay 100% of the invoice amount when the goods are delivered before unloading.
+
+6.2.2 **Prepayment (advance payment):**
+
+**a)** The Buyer pays 100% of the invoice amount specified in the proforma invoice within the timeframe mentioned.
+
+**b)** Payment is made via bank transfer into the Seller’s bank account with specific details provided.
+
+**c)** If the prepayment is less than the total due, the Buyer must pay the outstanding balance within five days of receiving the invoice.
+
+**d)** If the prepayment exceeds the total due, the Parties decide whether the excess is used for future deliveries or returned to the Buyer.
+
+**e)** If the Buyer pays less than 100% of the invoice amount, the Seller may choose to deliver only the corresponding quantity of goods.
+
+**f)** For partial prepayment, the Buyer pays 5% - 50% of the total goods value before dispatch and the remaining 50% - 95% after dispatch but within specified timeframes. If the remaining amount isn't paid within five days as agreed, the Seller can refuse to deliver the goods and keep the advance payment. Title and risk transfer after 100% payment is received by the Seller.
+
+6.2.3 **Letter of Credit:**
+
+6.2.3.1 **Issuing the Draft:** 
+
+The Buyer needs to create a draft of the Letter of Credit within five business days after accepting the Sales Order Confirmation, following the terms stated in this section.
+
+6.2.3.2 **Seller's Approval:** The Buyer must share this draft with the Seller for initial written approval.
+
+6.2.3.3 **Issuing the Letter of Credit:** Within five business days of receiving the Seller's written approval, the Buyer must issue the Letter of Credit.
+
+6.2.3.4 **Letter of Credit Details:** The Buyer must provide an irrevocable and divisible Letter of Credit (L/C) in favor of the Seller, payable upon sight and confirmed by the Seller's written approval before Goods dispatch. The details must comply with the instructions agreed upon in the approved BIS.
+
+6.2.3.5 **Required Documents:** The Seller needs to provide specific documents for the Letter of Credit, including the invoice, transport document, packing list, and any other documents requested by the L/C issuing bank.
+
+6.2.3.6 **Validity Period:** The Letter of Credit's validity period should cover the payment period specified in the contract plus fifteen days, with a minimum validity period of thirty days. The Buyer must extend the validity period in case of a Force Majeure Event.
+
+6.2.3.7 **Expenses:** The Buyer is responsible for paying expenses related to opening, amending, and utilizing the L/C.
+
+6.2.3.8 **Minor Mistakes:** Minor mistakes and misprints in the documents are acceptable. The Buyer must issue a waiver to the Buyer’s bank for any minor mistakes or misprints in the documents.
+
+6.2.4 **Post payment:**
+
+6.2.4.1 **Payment:**
+
+The Buyer must pay the full amount specified in the Seller’s invoice by the date given in the Contract. Partial payments are allowed.
+
+6.2.4.2 **Insurance:** 
+
+The Seller can choose to pay the debt from Article 6.2.4 through an insurance company.
+
+6.2.4.3 **Change in Payment Terms:**
+
+If the Buyer’s credit limit is reduced by financial institutions so that it's not enough to cover future supplies, the Seller can switch the Buyer to prepayment terms after notifying them within 3 business days.
+
+6.2.5 **Documents against Payment (D/P):**
+
+6.2.5.1 **Payment Terms:**
+
+These payment terms follow the ICC Uniform Rules for Bank-to-Bank Reimbursements Under Documentary Credits (URC 522).
+
+6.2.5.2 **D/P at Sight:**
+
+The Buyer must pay for the Goods using Documents against Payment at sight (referred to as "D/P at sight") following these conditions:
+
+**a)** Within ten (10) Business days after the documents confirming the right to dispose of the Goods are issued, the Seller must send the originals to their bank and copies to the Buyer via email.
+
+**b)** The Seller's Bank then sends the originals to the Buyer's Bank upon receiving the documents.
+
+**c)** The Buyer confirms to their bank the consent to pay for the original documents and immediately pays 100% of the specified amount mentioned in the seller's commercial invoice via email, mail, or other transfers upon receiving the documents. Failure to pay immediately incurs a fine as per Article 10.1.4.
+
+**d)** The Buyer ensures the full payment amount is available when confirming payment consent to their bank and transfers this payment to the Seller's bank account via telegraphic transfer without deduction, referencing the Contract and invoice number.
+
+**e)** Upon the Buyer's payment confirmation, they receive the original documents from their bank, confirming their right to dispose of the Goods.
