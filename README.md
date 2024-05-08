@@ -789,7 +789,7 @@ If contact information changes, both parties must inform each other promptly.
 
 2.5 **Email correspondence:** 
 
-Emails from the seller to the buyer are valid only if sent from a specific email address of the seller's domain.
+Emails from the seller to the buyer are valid only if sent from a specific email address of the seller's domain “@plow.group”.
 
 2.6 **Entire Contract:** 
 
