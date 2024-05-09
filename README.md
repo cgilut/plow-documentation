@@ -1247,7 +1247,7 @@ Unless the Contract or GTC specifies otherwise, any legal action or claim agains
 
 ### 10. LIABILITY
 
-10.1 **Responsibilities of the Parties:**
+#### 10.1 Responsibilities of the Parties:
 
 10.1.1 **Late Delivery Compensation:**
 
@@ -1296,3 +1296,196 @@ If the Buyer repeatedly fails to meet obligations, the Seller can change payment
 10.1.12 **Liability Limitations:**
 
 Both parties are not liable for certain events like death or injury caused by negligence. Neither party is liable for indirect or consequential losses. The Seller's liability is capped at the total value paid by the Buyer in the preceding 12 months.
+
+### 11. REACH
+
+11.1 **Disclaimer:**
+
+Despite anything else in the contract, when the Seller gives the Buyer numbers like Chemical Abstract Service Index Number or health and safety info about the goods (required by REACH), they don't guarantee the accuracy or completeness. So, if the Buyer relies on this info and faces any loss, damage, delay, or expense, the Seller isn't responsible.
+
+### 12. ANTI-CORRUPTION:
+
+#### 12.1 Each party promises to the other that:
+
+12.1.1. They know and follow anti-corruption laws, with systems in place to prevent any corrupt acts.
+
+12.1.2. No government official or their close family is involved with them.
+
+12.1.3. They, nor their team, have been investigated or punished for bribery or corruption, nor are they banned from government contracts.
+
+12.1.4. In the last five years, they haven't given or received bribes or acted illegally for contract purposes.
+
+12.1.5. They won't break anti-corruption laws in their dealings, like bribing officials for business favors, and will ensure their team knows and follows these rules.
+
+#### 12.2 Enforcement:
+
+12.2.1 **Reporting:**
+
+Each party must quickly inform the other (within five business days of knowing) about:
+
+**a)** Any actual or potential breach of the Anti-Corruption clause.
+
+**b)** Any request for a bribe related to the contract.
+
+12.2.2 **Breach and Indemnification:** Each party must quickly inform the other (within five business days of knowing) if:
+
+**a)** The other party breaches Anti-Corruption Laws.
+
+**b)** There's repeated evidence of the other party not following anti-bribery rules.
+
+**c)** Each party has to protect the other from any claims or costs from a breach of the Anti-Corruption Clause.
+
+**d)** Both parties can share information about possible violations with government agencies at any time.
+
+### 13. Feedback:
+
+13.1. The Buyer is encouraged to complete the Customer Feedback Form for every delivery as per the Contract.
+
+13.2. The Seller will consider all relevant information from the Customer Feedback Form and make necessary changes to the business process or resolve issues with the Goods producer accordingly.
+
+### 14. Compliance with Applicable Laws:
+
+14.1. Both Parties guarantee to each other that when the Contract is signed and whenever they fulfill obligations afterward, they comply with all relevant laws of the concerned area(s).
+
+### 15. Duration and Termination:
+
+15.1. The Contract starts on the Effective Date and continues until all obligations are met, unless terminated earlier as agreed in writing, or until the Buyer pays in full.
+
+15.2. Except for payment failure or demurrage liability, neither Party is liable for delays or non-performance due to reasonable circumstances beyond their control, unless specified otherwise in the GTC or the Contract.
+
+### 16. BUYER’S DEFAULT:
+
+16.1. The Seller can, with written notice, stop deliveries or end the contract if:
+
+**a)** The Buyer breaks any contract rule.
+
+**b)** The Buyer causes delivery delays that aren't excused.
+
+**c)** Unloading delays happen because of the Buyer.
+
+**d)** There's a big change in the Buyer's ownership.
+
+**e)** The Buyer goes bankrupt or can't pay its debts.
+
+**f)** The Buyer stops operating normally.
+
+**g)** The Buyer's assets are taken by a creditor.
+
+**h)** The Buyer doesn't give necessary security within 10 days.
+
+16.2. If delivery stops because of these reasons, the Seller can end the whole contract.
+
+16.3. If delivery stops but restarts later, the Seller doesn't have to deliver missed goods.
+
+16.4. If the contract has multiple deliveries and one is terminated, the Seller can end all future deliveries.
+
+16.5. Termination doesn't affect rights and duties before termination.
+
+### 17. SELLER’S DEFAULT:
+
+17.1. The Buyer can end the contract with written notice if the Seller breaks a big contract rule.
+
+17.2. Ending the contract only affects the delivery with a breach, not future ones.
+
+17.3. Termination doesn't affect rights and duties before termination.
+
+17.4. If one party ends the contract due to default, they can claim damages for the remaining undelivered goods.
+
+### 18. SANCTIONS:
+
+18.1. The Buyer confirms understanding and compliance with all applicable Sanctions, regardless of anything else in the Contract or the GTC.
+
+18.2. Neither Party has to fulfill any obligation if it would break Sanctions binding on them by law or the Contract.
+
+18.3. If a Party's performance would break Sanctions, that Party must notify the other Party promptly. The affected Party can then either suspend the obligation until they can legally do it or be released from the obligation, especially if it relates to paying for delivered Goods. This is without any liability, like a breach of Contract costs.
+
+18.4. These actions don't create any liability, including damages or costs.
+
+18.5. This clause doesn't stop any similar legal doctrines like the English Common Law doctrine of frustration if allowed under the Contract's law.
+
+### 19. FORCE MAJEURE
+
+19.1 Any Party isn't responsible for not fulfilling its duties if it can prove:
+
+**a)** The duty wasn't fulfilled because of things beyond its control.
+
+**b)** It couldn't have predicted or prepared for these circumstances when the contract was made.
+
+**c)** It couldn't reasonably avoid or deal with these circumstances afterward.
+
+19.2 The circumstances in 19.1 can include events like:
+
+**a)** War, riots, sabotage, or other violent events.
+
+**b)** Natural disasters like hurricanes or earthquakes.
+
+**c)** Accidents like explosions or fires.
+
+**d)** Strikes, boycotts, or government actions.
+
+**e)** Export or import bans.
+
+19.3 A Party claiming exemption must inform the other Party promptly (within 3 days) when these circumstances affect its duties. It must also inform when the situation ends.
+
+19.4 Proof of force majeure must be confirmed in writing by relevant Chambers of Commerce.
+
+### 20. ARBITRATION AND GOVERNING LAW
+
+20.1 The contract and GTC are governed by international conventions like the United Nations Convention on Contracts for the International Sale of Goods and laws of England.
+
+20.2 Disputes go to arbitration at the Singapore International Arbitration Centre. The arbitration follows SIAC Rules, with proceedings held in English.
+
+20.3 Both Parties must submit documents in English. Documents in other languages must be translated at the submitting Party's expense.
+
+20.4 The arbitrators' decision is final and must comply with the terms of the Contract.
+
+### 21. CONFIDENTIAL INFORMATION:
+
+21.1 Disclosure of Information: When a party (called the "Receiving Party") learns or receives information about the other party (called the "Disclosing Party"), its affiliates, or third parties that must be kept confidential (known as "Confidential Information"), certain exceptions apply. For instance, if the information becomes public without the Receiving Party's wrongdoing, or if the Receiving Party already knew it, there's no obligation to keep it confidential. Also, if the Receiving Party independently developed the information or got it from another source allowed to share it, they don't have to keep it confidential. However, they must provide proof of these exceptions if needed by law.
+
+21.2 Use and Disclosure: The Receiving Party can only use the Disclosing Party's Confidential Information for the contract's purposes. They can only share it with specific people like employees or consultants who need it for their work and who are also bound by confidentiality agreements. If any of these people share the information with others, both parties are responsible for any harm caused.
+
+21.3 Confidentiality Obligations: Both parties can't share the contract's contents with anyone else without written consent, unless certain exceptions apply. For example, they can share it with investors or lenders under strict confidentiality agreements, or if required by law. The party making the disclosure must inform the other party and try to keep the information confidential if possible. The seller can share information with a bank for factoring without the buyer's consent.
+
+21.4 Press Releases: Neither party can issue a press release about the contract or use the other party's name without written permission.
+
+### 22. MISCELLANEOUS
+
+22.1 **Set-off:**
+
+The Buyer can't offset any claims unless agreed in writing by the Seller beforehand. The Buyer can't use any sums owed to them by the Seller to offset payments under the Contract. However, the Seller can always offset any amount owed by the Buyer against what the Seller owes under the Contract.
+
+22.2 **Representations and Warranties:** 
+
+Each party assures the other that they have the authority to enter and fulfill their obligations under the Contract. They confirm that the Contract is legally binding and doesn't conflict with any laws or other agreements. They also promise to inform each other of any changes in ownership within five days.
+
+#### 22.3 Health, Safety, and Environment:
+
+22.3.1 **Condition of Goods:**
+
+The Seller ensures that the Goods supplied aren't hazardous if handled according to industry safety standards. The Buyer must follow safety guidelines and consult relevant documents for proper handling, processing, and storage.
+
+22.3.2 **Buyer's Warranty:**
+
+The Buyer must understand and follow the information in the Manufacturer's Material Safety Data Sheet (MSDS) for the Goods. They're responsible for ensuring compliance with safety measures among authorized persons involved with the Goods.
+
+22.3.3 **Acceptance of Risks:**
+
+The Buyer acknowledges the inherent risks associated with the Goods and can't hold the Seller liable for any damages resulting from exposure to the Goods.
+
+22.3.4 **Liability for Non-compliant Storage:**
+
+The Seller isn't responsible for damages resulting from receiving Goods in non-compliant storage facilities. The Buyer indemnifies the Seller against any claims arising from this.
+
+22.3.5 **Advisory Disclaimer:**
+
+Any advice given by the Seller regarding the Goods' storage, transport, use, or application is without prejudice, and the Seller isn't liable for any loss resulting from following such advice.
+
+22.3.6 **Intellectual Property Rights:**
+
+The Buyer doesn't acquire any intellectual property rights related to the Goods, including trademarks, copyrights, or patents.
+
+22.3.7 **Severability:**
+
+If any provision of the Contract becomes illegal, invalid, or unenforceable in any jurisdiction, it won't affect the validity of the remaining provisions or their enforceability in other jurisdictions.
+
