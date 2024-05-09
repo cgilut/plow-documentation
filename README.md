@@ -1101,19 +1101,33 @@ The Buyer must pay 100% of the invoice amount when the goods are delivered befor
 
 The Buyer needs to create a draft of the Letter of Credit within five business days after accepting the Sales Order Confirmation, following the terms stated in this section.
 
-6.2.3.2 **Seller's Approval:** The Buyer must share this draft with the Seller for initial written approval.
+6.2.3.2 **Seller's Approval:** 
 
-6.2.3.3 **Issuing the Letter of Credit:** Within five business days of receiving the Seller's written approval, the Buyer must issue the Letter of Credit.
+The Buyer must share this draft with the Seller for initial written approval.
 
-6.2.3.4 **Letter of Credit Details:** The Buyer must provide an irrevocable and divisible Letter of Credit (L/C) in favor of the Seller, payable upon sight and confirmed by the Seller's written approval before Goods dispatch. The details must comply with the instructions agreed upon in the approved BIS.
+6.2.3.3 **Issuing the Letter of Credit:** 
 
-6.2.3.5 **Required Documents:** The Seller needs to provide specific documents for the Letter of Credit, including the invoice, transport document, packing list, and any other documents requested by the L/C issuing bank.
+Within five business days of receiving the Seller's written approval, the Buyer must issue the Letter of Credit.
 
-6.2.3.6 **Validity Period:** The Letter of Credit's validity period should cover the payment period specified in the contract plus fifteen days, with a minimum validity period of thirty days. The Buyer must extend the validity period in case of a Force Majeure Event.
+6.2.3.4 **Letter of Credit Details:** 
 
-6.2.3.7 **Expenses:** The Buyer is responsible for paying expenses related to opening, amending, and utilizing the L/C.
+The Buyer must provide an irrevocable and divisible Letter of Credit (L/C) in favor of the Seller, payable upon sight and confirmed by the Seller's written approval before Goods dispatch. The details must comply with the instructions agreed upon in the approved BIS.
 
-6.2.3.8 **Minor Mistakes:** Minor mistakes and misprints in the documents are acceptable. The Buyer must issue a waiver to the Buyer’s bank for any minor mistakes or misprints in the documents.
+6.2.3.5 **Required Documents:**
+
+The Seller needs to provide specific documents for the Letter of Credit, including the invoice, transport document, packing list, and any other documents requested by the L/C issuing bank.
+
+6.2.3.6 **Validity Period:** 
+
+The Letter of Credit's validity period should cover the payment period specified in the contract plus fifteen days, with a minimum validity period of thirty days. The Buyer must extend the validity period in case of a Force Majeure Event.
+
+6.2.3.7 **Expenses:** 
+
+The Buyer is responsible for paying expenses related to opening, amending, and utilizing the L/C.
+
+6.2.3.8 **Minor Mistakes:**
+
+Minor mistakes and misprints in the documents are acceptable. The Buyer must issue a waiver to the Buyer’s bank for any minor mistakes or misprints in the documents.
 
 6.2.4 **Post payment:**
 
@@ -1148,3 +1162,137 @@ The Buyer must pay for the Goods using Documents against Payment at sight (refer
 **d)** The Buyer ensures the full payment amount is available when confirming payment consent to their bank and transfers this payment to the Seller's bank account via telegraphic transfer without deduction, referencing the Contract and invoice number.
 
 **e)** Upon the Buyer's payment confirmation, they receive the original documents from their bank, confirming their right to dispose of the Goods.
+
+### 7. QUALITY AND QUANTITY
+
+7.1 **Tolerance:**
+
+The quantity of goods in the contract can vary by up to 10% at the seller's discretion unless otherwise agreed.
+
+7.2 **Determining Quantity:**
+
+The quantity of goods is based on their weight at the Place of Shipment, as stated in transportation documents.
+
+7.3 **Delivery Quantity:**
+
+The actual quantity delivered must match the quantity stated in the transportation document.
+
+7.4 **Goods Value:**
+
+The total value of goods is determined based on the actual quantity delivered.
+
+7.5 **Tolerance Clause:**
+
+The actual quantity delivered can be up to 10% less than the contract quantity without the buyer being able to demand additional goods or return surplus.
+
+7.6 **Non-Delivery:**
+
+If the seller can't supply the full contract quantity, they must inform the buyer in advance. They may agree on new delivery terms, but the buyer can't force the seller to deliver more.
+
+7.7 **Buyer's Order:**
+
+If the buyer orders less than the contract quantity, the seller can choose to deliver the outstanding quantity later or request payment for 10% of the price as compensation. The seller must notify the buyer of their decision in writing.
+
+### 8. QUALITY AND QUANTITY INSPECTION
+
+8.1 **Determining Quality and Quantity:**
+
+Unless agreed otherwise in the contract, quality and quantity inspection happen at the Place of Shipment or the Place of Destination by an agreed-upon Inspector like SGS. This follows standard practices unless specified differently.
+
+8.2 **Inspection Request:**
+
+The Buyer can request an inspection, notifying the Seller at least 7 days in advance. The Seller can have a representative present during the inspection.
+
+8.3 **Quantity Deviation:**
+
+If the Goods' quantity differs from the Transport Document by more than 0.5%, the Goods are accepted based on the inspection result, and an offloading act is issued.
+
+8.4 **Seller's Obligations:**
+
+The Seller isn't considered in breach if the delivered quantity is within the permitted deviation. The Buyer can't claim losses for such deviations.
+
+8.5 **Buyer's Claims:**
+
+Claims for quantity deviations exceeding 0.5% must be made by the Buyer. The Seller is responsible for undelivered quantities exceeding 0.5%.
+
+8.6 **Inspection Results:**
+
+The Inspector's Report is final and binding for invoicing and quality and quantity purposes, unless there's fraud or an obvious mistake.
+
+8.7 **Quality Non-conformity:**
+
+If Goods don't match the agreed Specification, the Buyer can discuss a discounted Price or request replacement. The Seller must return prepayment for defective Goods plus a fee for using the Buyer's funds.
+
+8.8 **Inspection Costs:**
+
+Costs are shared equally between the Seller and the Buyer. Any additional inspections are paid by the Buyer, but only results from specified inspections affect the Parties.
+
+8.9 **Inspector's Report:** 
+
+The Inspector issues a report promptly and keeps samples for at least 90 days.
+
+### 9. CLAIMS
+
+9.1 **Timing of Claims:**
+
+If the Buyer has any issues with the quality of the Goods, they must inform the Seller within 45 business days after the Delivery Date. If there are issues with the quantity, the Buyer must inform the Seller within 14 business days after the Delivery Date, unless otherwise stated in the GTC. If the Buyer doesn't raise a claim within this time, it's considered expired, and the Goods are seen as accepted by the Buyer according to the GTC. No further claims regarding quality or quantity can be made.
+
+9.2 **Non-Basis for Refusal:**
+
+The Buyer can't use a claim about one shipment of Goods as a reason to refuse other shipments under the Contract or any other Contract between the Parties.
+
+9.3 **Time Limit for Legal Action:**
+
+Unless the Contract or GTC specifies otherwise, any legal action or claim against the Seller must be brought within two years after the issue arises. If not, the Buyer loses the right to make that claim.
+
+### 10. LIABILITY
+
+10.1 **Responsibilities of the Parties:**
+
+10.1.1 **Late Delivery Compensation:**
+
+If the Seller delivers the Goods late, the Buyer can demand compensation equal to 0.05% of the value of the late-delivered Goods per day, up to 10% of the price.
+
+10.1.2 **Exceptions for Seller's Late Delivery:**
+
+The Seller is not considered in breach until at least 30 days late. No compensation is due if delay is due to Force Majeure, Buyer's fault, or if permitted by the Contract.
+
+10.1.3 **Buyer's Remedies:**
+
+Liquidated damages and termination rights are the Buyer's only remedies for late delivery. If the Buyer terminates the Contract, they can't claim compensation for late delivery.
+
+10.1.4 **Late Payment Interest:**
+
+If the Buyer doesn't pay on time, they owe interest, starting at 0.03% per day and increasing after 60 days.
+
+10.1.5 **Seller's Rights for Payment Breach:**
+
+The Seller can suspend delivery or terminate the Contract if the Buyer breaches payment terms.
+
+10.1.6 **Buyer's Failure to Accept Delivery:**
+
+If the Buyer fails to accept delivery, the Seller can arrange storage at the Buyer's expense.
+
+10.1.7 **Buyer's Information Submission:**
+
+Buyer must provide accurate information. Delays due to missing or inaccurate information are the Buyer's responsibility, and they must compensate the Seller.
+
+10.1.8 **Buyer's Unloading Obligation:**
+
+If the Buyer is responsible for unloading and delays, they owe demurrage at market rates.
+
+10.1.9 **Demurrage Payment:**
+
+Buyer must pay demurrage to the Seller within five days or provide evidence disputing the claim within 30 days.
+
+10.1.10 **Buyer's Failure to Accept Delivery:**
+
+If the Buyer fails to accept delivery within five days, the Seller can sell the Goods and claim expenses from the Buyer.
+
+10.1.11 **Buyer's Obligations Failure:**
+
+If the Buyer repeatedly fails to meet obligations, the Seller can change payment terms or request additional security.
+
+10.1.12 **Liability Limitations:**
+
+Both parties are not liable for certain events like death or injury caused by negligence. Neither party is liable for indirect or consequential losses. The Seller's liability is capped at the total value paid by the Buyer in the preceding 12 months.
