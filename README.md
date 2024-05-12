@@ -1441,13 +1441,21 @@ Each party must quickly inform the other (within five business days of knowing) 
 
 ### 21. CONFIDENTIAL INFORMATION:
 
-21.1 Disclosure of Information: When a party (called the "Receiving Party") learns or receives information about the other party (called the "Disclosing Party"), its affiliates, or third parties that must be kept confidential (known as "Confidential Information"), certain exceptions apply. For instance, if the information becomes public without the Receiving Party's wrongdoing, or if the Receiving Party already knew it, there's no obligation to keep it confidential. Also, if the Receiving Party independently developed the information or got it from another source allowed to share it, they don't have to keep it confidential. However, they must provide proof of these exceptions if needed by law.
+21.1 **Disclosure of Information:**
 
-21.2 Use and Disclosure: The Receiving Party can only use the Disclosing Party's Confidential Information for the contract's purposes. They can only share it with specific people like employees or consultants who need it for their work and who are also bound by confidentiality agreements. If any of these people share the information with others, both parties are responsible for any harm caused.
+When a party (called the "Receiving Party") learns or receives information about the other party (called the "Disclosing Party"), its affiliates, or third parties that must be kept confidential (known as "Confidential Information"), certain exceptions apply. For instance, if the information becomes public without the Receiving Party's wrongdoing, or if the Receiving Party already knew it, there's no obligation to keep it confidential. Also, if the Receiving Party independently developed the information or got it from another source allowed to share it, they don't have to keep it confidential. However, they must provide proof of these exceptions if needed by law.
 
-21.3 Confidentiality Obligations: Both parties can't share the contract's contents with anyone else without written consent, unless certain exceptions apply. For example, they can share it with investors or lenders under strict confidentiality agreements, or if required by law. The party making the disclosure must inform the other party and try to keep the information confidential if possible. The seller can share information with a bank for factoring without the buyer's consent.
+21.2 **Use and Disclosure:**
 
-21.4 Press Releases: Neither party can issue a press release about the contract or use the other party's name without written permission.
+The Receiving Party can only use the Disclosing Party's Confidential Information for the contract's purposes. They can only share it with specific people like employees or consultants who need it for their work and who are also bound by confidentiality agreements. If any of these people share the information with others, both parties are responsible for any harm caused.
+
+21.3 **Confidentiality Obligations:**
+
+Both parties can't share the contract's contents with anyone else without written consent, unless certain exceptions apply. For example, they can share it with investors or lenders under strict confidentiality agreements, or if required by law. The party making the disclosure must inform the other party and try to keep the information confidential if possible. The seller can share information with a bank for factoring without the buyer's consent.
+
+21.4 **Press Releases:**
+
+Neither party can issue a press release about the contract or use the other party's name without written permission.
 
 ### 22. MISCELLANEOUS
 
