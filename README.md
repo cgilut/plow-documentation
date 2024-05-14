@@ -1493,7 +1493,17 @@ Any advice given by the Seller regarding the Goods' storage, transport, use, or 
 
 The Buyer doesn't acquire any intellectual property rights related to the Goods, including trademarks, copyrights, or patents.
 
+
 22.3.7 **Severability:**
 
 If any provision of the Contract becomes illegal, invalid, or unenforceable in any jurisdiction, it won't affect the validity of the remaining provisions or their enforceability in other jurisdictions.
 
+### LiLo FiFo
+
+### Bill of Landing
+
+**Master/House/Forward/Charter BL**
+
+**Telex release/Seaway Bill**
+
+### Detention/Demurrage/Storage 
